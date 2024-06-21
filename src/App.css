@@ -1,0 +1,7 @@
+.scrollbar::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}
+body{
+  background:url("https://previews.123rf.com/images/evemax/evemax1809/evemax180900200/108152702-news-globe-with-rotating-earth-in-white-color-in-abstract-rings-background.jpg") ;
+  background: no-repeat;
+}
